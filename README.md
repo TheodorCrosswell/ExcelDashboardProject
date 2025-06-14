@@ -41,4 +41,3 @@ This project showcases proficiency in a range of intermediate to advanced Excel 
 2.  **Presentation Layer:** The main `Dashboard` sheet pulls in the **PivotCharts** from the analysis sheet. **Slicers** and a **Timeline** are connected to the underlying PivotTables to provide interactivity. Shapes, text boxes, and careful formatting are used to build the final polished interface.
 
 This project effectively transforms raw tabular data into a powerful, interactive, and insightful business intelligence tool using only the native capabilities of Microsoft Excel.
-```
